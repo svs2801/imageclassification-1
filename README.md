@@ -6,4 +6,4 @@ Link to more information on CIFAR10: https://keras.io/api/datasets/cifar10/
 Link to the official CIFAR datasets homepage: https://www.cs.toronto.edu/~kriz/cifar.html
 
 The model is trained using CNN(Convolutional Neural Networks) and can identify the label/type associated with the image fed from the test case.
-The training dataset contains 50000 images of size 32*32 pixels and the test data contains 10000 images of size 32*32 pixels.
+The training dataset contains 50000 images of size 32 by 32 pixels and the test data contains 10000 images of size 32 by 32 pixels.
